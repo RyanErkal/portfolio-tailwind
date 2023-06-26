@@ -3,7 +3,7 @@ import React from "react";
 export default function Portfolio() {
 	return (
 		<>
-			<div class="bg-white dark:bg-slate-800 px-8 py-8 shadow-xl grid grid-cols-3 gap-6">
+			<div class="bg-slate-200 dark:bg-slate-800 px-8 py-8 shadow-xl grid grid-cols-3 gap-6">
 				<h1 class="text-3xl mb-6 col-span-3 justify-self-center">
 					<strong class="text-orange-400 dark:text-purple-400">
 						Portfolio
@@ -23,13 +23,13 @@ export default function Portfolio() {
 						aliquet nunc, sit amet luctus nisl nisl quis nunc.
 					</p>
 					<div class="my-4">
-						<span class="p-2 mx-2 border-solid border-2 border-orange-200 dark:border-purple-400 rounded hover:bg-orange-200 hover:dark:bg-purple-400 hover:shadow-xl transition-all">
+						<span class="p-2 mx-2 border-solid border-2 border-orange-200 dark:border-purple-400 rounded hover:bg-orange-200 hover:dark:bg-purple-400 hover:shadow-xl hover:font-bold transition-all">
 							React
 						</span>
-						<span class="p-2 mx-2 border-solid border-2 border-orange-200 dark:border-purple-400 rounded hover:bg-orange-200 hover:dark:bg-purple-400 hover:shadow-xl transition-all">
+						<span class="p-2 mx-2 border-solid border-2 border-orange-200 dark:border-purple-400 rounded hover:bg-orange-200 hover:dark:bg-purple-400 hover:shadow-xl hover:font-bold transition-all">
 							Node
 						</span>
-						<span class="p-2 mx-2 border-solid border-2 border-orange-200 dark:border-purple-400 rounded hover:bg-orange-200 hover:dark:bg-purple-400 hover:shadow-xl transition-all">
+						<span class="p-2 mx-2 border-solid border-2 border-orange-200 dark:border-purple-400 rounded hover:bg-orange-200 hover:dark:bg-purple-400 hover:shadow-xl hover:font-bold transition-all">
 							Tailwind CSS
 						</span>
 					</div>
@@ -48,13 +48,13 @@ export default function Portfolio() {
 						aliquet nunc, sit amet luctus nisl nisl quis nunc.
 					</p>
 					<div class="my-4">
-						<span class="p-2 mx-2 border-solid border-2 border-orange-200 dark:border-purple-400 rounded hover:bg-orange-200 hover:dark:bg-purple-400 hover:shadow-xl transition-all">
+						<span class="p-2 mx-2 border-solid border-2 border-orange-200 dark:border-purple-400 rounded hover:bg-orange-200 hover:dark:bg-purple-400 hover:shadow-xl hover:font-bold transition-all">
 							React
 						</span>
-						<span class="p-2 mx-2 border-solid border-2 border-orange-200 dark:border-purple-400 rounded hover:bg-orange-200 hover:dark:bg-purple-400 hover:shadow-xl transition-all">
+						<span class="p-2 mx-2 border-solid border-2 border-orange-200 dark:border-purple-400 rounded hover:bg-orange-200 hover:dark:bg-purple-400 hover:shadow-xl hover:font-bold transition-all">
 							Node
 						</span>
-						<span class="p-2 mx-2 border-solid border-2 border-orange-200 dark:border-purple-400 rounded hover:bg-orange-200 hover:dark:bg-purple-400 hover:shadow-xl transition-all">
+						<span class="p-2 mx-2 border-solid border-2 border-orange-200 dark:border-purple-400 rounded hover:bg-orange-200 hover:dark:bg-purple-400 hover:shadow-xl hover:font-bold transition-all">
 							Tailwind CSS
 						</span>
 					</div>
@@ -73,13 +73,13 @@ export default function Portfolio() {
 						aliquet nunc, sit amet luctus nisl nisl quis nunc.
 					</p>
 					<div class="my-4">
-						<span class="p-2 mx-2 border-solid border-2 border-orange-200 dark:border-purple-400 rounded hover:bg-orange-200 hover:dark:bg-purple-400 hover:shadow-xl transition-all">
+						<span class="p-2 mx-2 border-solid border-2 border-orange-200 dark:border-purple-400 rounded hover:bg-orange-200 hover:dark:bg-purple-400 hover:shadow-xl hover:font-bold transition-all">
 							React
 						</span>
-						<span class="p-2 mx-2 border-solid border-2 border-orange-200 dark:border-purple-400 rounded hover:bg-orange-200 hover:dark:bg-purple-400 hover:shadow-xl transition-all">
+						<span class="p-2 mx-2 border-solid border-2 border-orange-200 dark:border-purple-400 rounded hover:bg-orange-200 hover:dark:bg-purple-400 hover:shadow-xl hover:font-bold transition-all">
 							Node
 						</span>
-						<span class="p-2 mx-2 border-solid border-2 border-orange-200 dark:border-purple-400 rounded hover:bg-orange-200 hover:dark:bg-purple-400 hover:shadow-xl transition-all">
+						<span class="p-2 mx-2 border-solid border-2 border-orange-200 dark:border-purple-400 rounded hover:bg-orange-200 hover:dark:bg-purple-400 hover:shadow-xl hover:font-bold transition-all">
 							Tailwind CSS
 						</span>
 					</div>

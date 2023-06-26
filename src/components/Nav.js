@@ -18,7 +18,7 @@ export default function Nav() {
 
 	return (
 		<>
-			<nav class="bg-slate-100 dark:bg-slate-900 px-6 py-8 shadow-xl flex flex-row">
+			<nav class="bg-slate-300 dark:bg-slate-900 px-6 py-8 shadow-xl flex flex-row">
 				<span class="material-symbols-outlined text-slate-900 dark:text-white hover:text-orange-400 dark:hover:text-purple-400 basis-1/12 transition-all">
 					menu
 				</span>
