@@ -3,8 +3,8 @@ import React from "react";
 export default function Portfolio() {
 	return (
 		<>
-			<div class="bg-white dark:bg-slate-800 px-6 py-8 shadow-xl grid grid-cols-3 gap-6">
-				<h1 class="text-3xl col-span-3 justify-self-center">
+			<div class="bg-white dark:bg-slate-800 px-8 py-8 shadow-xl grid grid-cols-3 gap-6">
+				<h1 class="text-3xl mb-6 col-span-3 justify-self-center">
 					<strong class="text-orange-400 dark:text-purple-400">
 						Portfolio
 					</strong>
