@@ -24,3 +24,13 @@ code {
 .material-symbols-outlined:hover {
 	font-variation-settings: "FILL" 1, "wght" 700, "GRAD" 0, "opsz" 48;
 }
+
+.dark {
+	background-color: #1a202c;
+	color: #fff;
+}
+
+.light {
+	background-color: #fff;
+	color: #1a202c;
+}
