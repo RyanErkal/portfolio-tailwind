@@ -1,5 +1,4 @@
 import React from "react";
-import SvgWrapper from "./SvgWrapper";
 
 export default function Skills() {
 	return (
