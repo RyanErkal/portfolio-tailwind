@@ -22,7 +22,7 @@ export default function Portfolio() {
 						euismod, nisl eget aliquam ultricies, mauris nisl
 						aliquet nunc, sit amet luctus nisl nisl quis nunc.
 					</p>
-					<div class="my-4">
+					<div class="my-4 pt-2 text-center">
 						<span class="p-2 mx-2 border-solid border-2 border-orange-200 dark:border-purple-400 rounded hover:bg-orange-200 hover:dark:bg-purple-400 hover:shadow-xl hover:font-bold transition-all">
 							React
 						</span>
@@ -31,6 +31,22 @@ export default function Portfolio() {
 						</span>
 						<span class="p-2 mx-2 border-solid border-2 border-orange-200 dark:border-purple-400 rounded hover:bg-orange-200 hover:dark:bg-purple-400 hover:shadow-xl hover:font-bold transition-all">
 							Tailwind CSS
+						</span>
+					</div>
+					<div class="my-4 pt-2 text-center">
+						<span class="material-symbols-outlined text-slate-900 dark:text-white hover:text-orange-400 dark:hover:text-purple-400 transition-all">
+							<a
+								href="#"
+								class="p-2 text-orange-400 dark:text-purple-400"></a>
+							<span class="material-symbols-outlined">
+								integration_instructions
+							</span>
+						</span>
+						<span class="material-symbols-outlined text-slate-900 dark:text-white hover:text-orange-400 dark:hover:text-purple-400 transition-all">
+							<a
+								href="#"
+								class="p-2 text-orange-400 dark:text-purple-400"></a>
+							media_link
 						</span>
 					</div>
 				</div>
@@ -47,7 +63,7 @@ export default function Portfolio() {
 						euismod, nisl eget aliquam ultricies, mauris nisl
 						aliquet nunc, sit amet luctus nisl nisl quis nunc.
 					</p>
-					<div class="my-4">
+					<div class="my-4 pt-2 text-center">
 						<span class="p-2 mx-2 border-solid border-2 border-orange-200 dark:border-purple-400 rounded hover:bg-orange-200 hover:dark:bg-purple-400 hover:shadow-xl hover:font-bold transition-all">
 							React
 						</span>
@@ -56,6 +72,22 @@ export default function Portfolio() {
 						</span>
 						<span class="p-2 mx-2 border-solid border-2 border-orange-200 dark:border-purple-400 rounded hover:bg-orange-200 hover:dark:bg-purple-400 hover:shadow-xl hover:font-bold transition-all">
 							Tailwind CSS
+						</span>
+					</div>
+					<div class="my-4 pt-2 text-center">
+						<span class="material-symbols-outlined text-slate-900 dark:text-white hover:text-orange-400 dark:hover:text-purple-400 transition-all">
+							<a
+								href="#"
+								class="p-2 text-orange-400 dark:text-purple-400"></a>
+							<span class="material-symbols-outlined">
+								integration_instructions
+							</span>
+						</span>
+						<span class="material-symbols-outlined text-slate-900 dark:text-white hover:text-orange-400 dark:hover:text-purple-400 transition-all">
+							<a
+								href="#"
+								class="p-2 text-orange-400 dark:text-purple-400"></a>
+							media_link
 						</span>
 					</div>
 				</div>
@@ -72,7 +104,7 @@ export default function Portfolio() {
 						euismod, nisl eget aliquam ultricies, mauris nisl
 						aliquet nunc, sit amet luctus nisl nisl quis nunc.
 					</p>
-					<div class="my-4">
+					<div class="my-4 pt-2 text-center">
 						<span class="p-2 mx-2 border-solid border-2 border-orange-200 dark:border-purple-400 rounded hover:bg-orange-200 hover:dark:bg-purple-400 hover:shadow-xl hover:font-bold transition-all">
 							React
 						</span>
@@ -81,6 +113,22 @@ export default function Portfolio() {
 						</span>
 						<span class="p-2 mx-2 border-solid border-2 border-orange-200 dark:border-purple-400 rounded hover:bg-orange-200 hover:dark:bg-purple-400 hover:shadow-xl hover:font-bold transition-all">
 							Tailwind CSS
+						</span>
+					</div>
+					<div class="my-4 text-center">
+						<span class="material-symbols-outlined text-slate-900 dark:text-white hover:text-orange-400 dark:hover:text-purple-400 transition-all">
+							<a
+								href="#"
+								class="p-2 text-orange-400 dark:text-purple-400"></a>
+							<span class="material-symbols-outlined">
+								integration_instructions
+							</span>
+						</span>
+						<span class="material-symbols-outlined text-slate-900 dark:text-white hover:text-orange-400 dark:hover:text-purple-400 transition-all">
+							<a
+								href="#"
+								class="p-2 text-orange-400 dark:text-purple-400"></a>
+							media_link
 						</span>
 					</div>
 				</div>
