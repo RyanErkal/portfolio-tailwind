@@ -4,7 +4,7 @@ export default function Portfolio() {
 	return (
 		<>
 			<div class="bg-slate-200 dark:bg-slate-800 px-8 py-8 shadow-xl grid grid-cols-3 gap-6">
-				<h1 class="text-3xl mb-6 col-span-3 justify-self-center">
+				<h1 class="text-3xl col-span-3 justify-self-center">
 					<strong class="text-orange-400 dark:text-purple-400">
 						Portfolio
 					</strong>
@@ -115,7 +115,7 @@ export default function Portfolio() {
 							Tailwind CSS
 						</span>
 					</div>
-					<div class="my-4 text-center">
+					<div class="my-4 pt-2 text-center">
 						<span class="material-symbols-outlined text-slate-900 dark:text-white hover:text-orange-400 dark:hover:text-purple-400 transition-all">
 							<a
 								href="#"
