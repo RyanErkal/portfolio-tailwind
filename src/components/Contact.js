@@ -15,7 +15,7 @@ export default function Contact() {
 								type="text"
 								name="floating_first_name"
 								id="floating_first_name"
-								class="block py-2.5 px-0 w-full text-sm text-slate-900 bg-transparent border-0 border-b-2 border-slate-300 appearance-none dark:text-slate-900 dark:border-slate-600 dark:focus:border-purple-400 focus:outline-none focus:ring-0 focus:border-orange-400 peer"
+								class="block py-2.5 px-0 w-full text-sm text-slate-900 bg-transparent border-0 border-b-2 border-slate-300 appearance-none dark:text-slate-100 dark:border-slate-600 dark:focus:border-purple-400 focus:outline-none focus:ring-0 focus:border-orange-400 peer"
 								placeholder=" "
 								required
 							/>
@@ -30,7 +30,7 @@ export default function Contact() {
 								type="text"
 								name="floating_last_name"
 								id="floating_last_name"
-								class="block py-2.5 px-0 w-full text-sm text-slate-900 bg-transparent border-0 border-b-2 border-slate-300 appearance-none dark:text-slate-900 dark:border-slate-600 dark:focus:border-purple-400 focus:outline-none focus:ring-0 focus:border-orange-400 peer"
+								class="block py-2.5 px-0 w-full text-sm text-slate-900 bg-transparent border-0 border-b-2 border-slate-300 appearance-none dark:text-slate-100 dark:border-slate-600 dark:focus:border-purple-400 focus:outline-none focus:ring-0 focus:border-orange-400 peer"
 								placeholder=" "
 								required
 							/>
@@ -47,7 +47,7 @@ export default function Contact() {
 								type="text"
 								name="floating_first_name"
 								id="floating_first_name"
-								class="block py-2.5 px-0 w-full text-sm text-slate-900 bg-transparent border-0 border-b-2 border-slate-300 appearance-none dark:text-slate-900 dark:border-slate-600 dark:focus:border-purple-400 focus:outline-none focus:ring-0 focus:border-orange-400 peer"
+								class="block py-2.5 px-0 w-full text-sm text-slate-900 bg-transparent border-0 border-b-2 border-slate-300 appearance-none dark:text-slate-100 dark:border-slate-600 dark:focus:border-purple-400 focus:outline-none focus:ring-0 focus:border-orange-400 peer"
 								placeholder=" "
 								required
 							/>
@@ -62,7 +62,7 @@ export default function Contact() {
 								type="tel"
 								name="floating_last_name"
 								id="floating_last_name"
-								class="block py-2.5 px-0 w-full text-sm text-slate-900 bg-transparent border-0 border-b-2 border-slate-300 appearance-none dark:text-slate-900 dark:border-slate-600 dark:focus:border-purple-400 focus:outline-none focus:ring-0 focus:border-orange-400 peer"
+								class="block py-2.5 px-0 w-full text-sm text-slate-900 bg-transparent border-0 border-b-2 border-slate-300 appearance-none dark:text-slate-100 dark:border-slate-600 dark:focus:border-purple-400 focus:outline-none focus:ring-0 focus:border-orange-400 peer"
 								placeholder=" "
 								required
 							/>
@@ -78,7 +78,7 @@ export default function Contact() {
 							type="textarea"
 							name="floating_first_name"
 							id="floating_first_name"
-							class="block py-2.5 px-0 w-full text-sm text-slate-900 bg-transparent border-0 border-b-2 border-slate-300 appearance-none dark:text-slate-900 dark:border-slate-600 dark:focus:border-purple-400 focus:outline-none focus:ring-0 focus:border-orange-400 peer"
+							class="block py-2.5 px-0 w-full text-sm text-slate-900 bg-transparent border-0 border-b-2 border-slate-300 appearance-none dark:text-slate-100 dark:border-slate-600 dark:focus:border-purple-400 focus:outline-none focus:ring-0 focus:border-orange-400 peer"
 							placeholder=" "
 							required
 						/>
