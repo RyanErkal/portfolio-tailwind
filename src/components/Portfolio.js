@@ -101,9 +101,9 @@ export default function Portfolio() {
 						Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 						Nulla euismod, nisl eget aliquam ultricies, mauris nisl
 						aliquet nunc, sit amet luctus nisl nisl quis nunc. Sed
-						euismod, nisl eget aliquam ultricies, mauris nisl
-						aliquet nunc, sit amet luctus nisl nisl quis nunc.
-						prject oprject
+						euismod, nisl eget aliquam ultricies, mauris
+						nisldsadasdas aliquet nunc, sit amet luctus nisl nisl
+						quis nunc. prject oprject
 					</p>
 					<div class="my-4 pt-2 text-center">
 						<span class="p-2 mx-2 border-solid border-2 border-orange-200 dark:border-purple-400 rounded hover:bg-orange-200 hover:dark:bg-purple-400 hover:shadow-xl hover:font-bold transition-all">
