@@ -1,6 +1,8 @@
 import React from "react";
 import "../index.css";
 
+//TODO Hamburger Menu Functionality
+
 export default function Nav() {
 	function toggleDarkMode() {
 		const html = document.querySelector("html");
