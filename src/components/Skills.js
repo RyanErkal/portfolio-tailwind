@@ -1,5 +1,11 @@
 import React from "react";
 
+//TODO fix sizing for different screen sizes
+//TODO add reusable Project cmponent
+//TODO get contact form working
+//TODO Add Stripe  Integrtion
+//TODO add Calenly Integration
+
 export default function Skills() {
 	return (
 		<>
