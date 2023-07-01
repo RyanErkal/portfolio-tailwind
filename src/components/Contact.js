@@ -90,7 +90,7 @@ export default function Contact() {
 					</div>
 					<button
 						type="submit"
-						class="text-slate-100 bg-orange-400 hover:bg-orange-500 focus:ring-4 focus:outline-none focus:ring-orange-300 font-medium hover:font-bold rounded-lg text-sm w-full sm:w-auto px-5 py-2.5 text-center dark:bg-purple-400 dark:hover:bg-purple-500 dark:focus:ring-purple-300">
+						class="text-slate-100 bg-orange-400 hover:bg-orange-500 focus:ring-4 focus:outline-none focus:ring-orange-300 font-medium hover:font-bold rounded-lg text-sm w-full sm:w-auto px-5 py-2.5 text-center dark:bg-purple-400 dark:hover:bg-purple-500 dark:focus:ring-purple-300 flex justify-self-center alignself--center">
 						Submit
 					</button>
 				</form>

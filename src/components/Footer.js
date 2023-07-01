@@ -3,7 +3,7 @@ import React from "react";
 export default function Footer() {
 	return (
 		<>
-			<footer class="ralative bottom-0 text-center">
+			<footer class="bg-slate-300 dark:bg-slate-900 relative bottom-0 text-center">
 				<p class="py-2">&copy; 2023 Ryan Erkal</p>
 				<a
 					class="px-2 py-2 hover:text-orange-400 dark:hover:text-purple-400"

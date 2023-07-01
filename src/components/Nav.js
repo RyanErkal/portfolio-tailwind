@@ -15,12 +15,12 @@ export default function Nav() {
 		document.getElementById("dark-mode-toggle").innerHTML =
 			html.getAttribute("class") === "dark"
 				? '<span class="material-symbols-outlined hover:scale-125 dark:hover:scale-125 text-orange-400">light_mode</span>'
-				: '<span class="material-symbols-outlined hover:scale-125 dark:hover:scale-125 text-purple-400">dark_mode</span>';
+				: '<span class="material-symbols-outlined hover:scale-125 dark:hover:scale-125 text-purple-800">dark_mode</span>';
 	}
 
 	return (
 		<>
-			<nav class="bg-slate-300 dark:bg-slate-900 px-6 py-8 shadow-xl flex flex-row">
+			<nav class="bg-slate-400 dark:bg-slate-900 px-6 py-8 shadow-xl flex flex-row">
 				<span class="material-symbols-outlined text-slate-900 dark:text-white hover:text-orange-400 dark:hover:text-purple-400 basis-1/12 transition-all">
 					menu
 				</span>
@@ -34,10 +34,18 @@ export default function Nav() {
 					<h3 class="text-slate-900 dark:text-slate-100 mr-4 hover:scale-110 hover:font-bold hover:text-orange-400 dark:hover:text-purple-400 transition-all">
 						Contact
 					</h3>
+					<h3 class="text-slate-900 dark:text-slate-100 mr-4 hover:scale-110 hover:font-bold hover:text-orange-400 dark:hover:text-purple-400 transition-all">
+						<a href="https://github.com/RyanErkal">GitHub</a>
+					</h3>
+					<h3 class="text-slate-900 dark:text-slate-100 mr-4 hover:scale-110 hover:font-bold hover:text-orange-400 dark:hover:text-purple-400 transition-all">
+						<a href="https://www.linkedin.com/in/ryan-erkal-182768160/">
+							LinkedIn
+						</a>
+					</h3>
 					<button onClick={toggleDarkMode} id="dark-mode-toggle">
 						<span
 							id="dark-mode-icon"
-							class="material-symbols-outlined hover:scale-125 dark:hover:scale-125 text-purple-400 ">
+							class="material-symbols-outlined hover:scale-125 dark:hover:scale-125 text-purple-800 ">
 							dark_mode
 						</span>
 					</button>
